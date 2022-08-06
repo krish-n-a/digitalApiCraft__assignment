@@ -1,0 +1,19 @@
+{
+  "name": "digitalapicraft",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bluebird": "^3.7.2",
+    "count-words": "^1.0.13",
+    "esm": "^3.2.25",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10"
+  }
+}
